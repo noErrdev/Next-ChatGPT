@@ -40,11 +40,5 @@ nullgpt employs a round-robin strategy for balancing multiple tokens. This ensur
  
 We welcome contributions to nullgpt. If you have any ideas, bug reports, or feature requests, please open an issue on the repository. Additionally, feel free to submit pull requests to improve the codebase or add new features.
  
-## Contact
- 
-If you have any questions or need assistance, you can reach out to the project maintainers at [starrynightskyhoney@gmail.com](mailto:starrynightskyhoney@gmail.com). We are happy to help and provide support.
- 
----
- 
 With nullgpt, you can have engaging and productive conversations with a private document. Customize the chatbot's behavior, enjoy a seamless user interface, and take advantage of advanced features like custom models and multiple tokens balancing. Get started with nullgpt today and experience the power of GPT-3 in action!# nullgpt
 
