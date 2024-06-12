@@ -1,6 +1,5 @@
-# nullgpt
- 
-nullgpt is a GitHub repository that provides a powerful chatbot powered by OpenAI's GPT-3 language model. This chatbot allows you to have conversations with a private document. By running the associated repository [React-NullGPT](https://github.com/noErrdev/Next-ChatGPT/) on your machine, you can experience the chatbot's capabilities firsthand.
+# Nextjs -NullGPT 
+This is a GitHub repository that provides a powerful chatbot powered by OpenAI's GPT-3 language model. This chatbot allows you to have conversations with a private document. By running the associated repository [Next-NullGPT](https://github.com/noErrdev/Next-ChatGPT/) on your machine, you can experience the chatbot's capabilities firsthand.
  
 Website: https://gpt.dongnv.dev
 
